@@ -1,5 +1,10 @@
-# 💫 About Me:
-I'm currently working on BisaPreneur Academy Dashboard<br>
+# 💫 About Me
+Ongoing project I'm currently working on:
+<ul>
+  <li>BisaPreneur Academy Dashboard</li>
+</ul>
+
+<br>
 
 
 ## 🌐 Socials:
