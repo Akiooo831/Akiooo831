@@ -1,7 +1,7 @@
 # About Me
 Ongoing project I'm currently working on:
 <ul>
-  <li>BisaPreneur Academy Dashboard</li>
+  <li>My own portfolio</li>
 </ul>
 
 <br>
