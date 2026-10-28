@@ -1,4 +1,6 @@
 # About Me
+Not much, just an ordinary people who likes to gaze upon the star. That's all.
+
 Ongoing project I'm currently working on:
 <ul>
   <li>My own portfolio</li>
